@@ -18,6 +18,7 @@ When working on the project:
 5.  Add then commit your code
 
     `git add .`
+
     `git commit -m "example commit"`
 
 6.  Push your code to your fork
